@@ -4,4 +4,13 @@
 
  Project uses the the built-in CIFAR10 dataset, which contains 60,000 color images in 10 classes, with 6,000 images in each class. The dataset is divided into 50,000 training images and 10,000 test images. The classes are mutually exclusive and do not overlap.
 
+<p align="center">
+ <img src="https://raw.githubusercontent.com/jolapodolszanska/image-classification-cnn/main/imgs/Figure%202024-07-29%20162547.png" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/jolapodolszanska/image-classification-cnn/main/imgs/Figure%202024-07-29%20162607.png" />
+</p>
+
+
  
